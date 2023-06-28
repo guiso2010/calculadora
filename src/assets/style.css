@@ -13,25 +13,28 @@
 
 .calculator-lbl{
  
-    height: 60px;
+    height: 80px;
     width: 100%;
-    margin: 0 auto;
     background-color: white;
     text-align: center;
+    padding-top:10px
 }
 
 .calculadora-btn{
 
-    font-size: 20px;
-    margin: 30px;
+    font-size: 35px;
+    padding: 13px;
+    margin: 20px;
     background: #2f39ff;
     color: white;
-    border: 0px;
-    Height:30px;
-    width: 30px;
+    border-radius: 1px;
+    Height:50px;
+    width: 50px;
     justify-content: center;
     flex-direction: column;
     text-align: center;
+    
+ 
      
 }
 

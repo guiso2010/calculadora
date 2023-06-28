@@ -1,7 +1,7 @@
 import { Calculadora } from './container/Calculadora'
 
 function App() {
-    return <div><Calculadora /></div>
+    return <Calculadora />
 }
 
 export default App;
